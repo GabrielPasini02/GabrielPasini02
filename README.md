@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielpasini20221@gmail.com)
 
 ### 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielPasini02&theme=tokyonight)
+![Gabriel Pasini GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielPasini02&theme=tokyonight)
 
 ### 🚀 Linguagens Mais Usadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
