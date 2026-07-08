@@ -1,6 +1,5 @@
 ### Olá! eu sou o Gabriel Pasini👋
- Sou um aprendiz em programação em constante busca por conhecimento e evolução. Atualmente, estou embarcando na jornada de me tornar um desenvolvedor Front-End, buscando aprender e aplicar novos conhecimentos todos os dias. Estou dedicado a resolver problemas complexos e criar soluções inovadoras através do código.
-
+ 
 
 ### 🛜 Meus Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpasini02/)
