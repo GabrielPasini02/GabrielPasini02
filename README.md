@@ -1,17 +1,42 @@
-### Olá! eu sou o Gabriel Pasini👋
- 
+# Gabriel Pasini
 
-### 🛜 Meus Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpasini02/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pasinixx/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@pasinii/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielpasini20221@gmail.com)
+**Desenvolvedor Web** · Caieiras, SP
 
-### 📊 Estatísticas no GitHub
-![Gabriel Pasini GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielPasini02&theme=tokyonight)
+Eu tiro pequenos negócios da invisibilidade: site no ar, rápido, que o dono consegue manter sozinho. Fundei a **[Orbion](https://orbion-ia.vercel.app)** e faço o ciclo inteiro — prospecção, design, código, deploy e manutenção.
 
-### 🚀 Linguagens Mais Usadas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Não são projetos de curso. **São sites em produção, com cliente real do outro lado.**
+
+---
+
+## 🚀 Em produção
+
+| Projeto | O que é |
+|---|---|
+| **[Maga Ateliê](https://magaatelie.vercel.app)** | Ateliê de alta costura · site + **painel próprio** com Supabase e RLS, pra dona gerenciar sozinha · imagens **−74%** de peso |
+| **[SCF Manutenções](https://scfmanutencoesgerais.vercel.app)** | Manutenção predial · hidráulica, elétrica, caça vazamento |
+| **[Adeson Eletrônicos](https://adesoneletronicos.vercel.app)** | Assistência técnica autorizada LG |
+| **[Orbion](https://orbion-ia.vercel.app)** | Meu institucional · hero animado em "sistema solar", JS puro |
+| **[Evergreen Cleaning](https://evergreencleaningma.vercel.app)** 🇺🇸 | Home services (EUA) · click-to-call, service area |
+| **[Summit Remodeling](https://summitremodelingma.vercel.app)** 🇺🇸 | Contractor (EUA) · free estimate, project gallery |
+
+## 🔧 O que construí por trás
+
+**[us-home-services-generator](https://github.com/GabrielPasini02/us-home-services-generator)** — gerador de sites. Um `config.json` entra, um site americano completo sai. Transformou entrega de semanas em horas.
+
+**[orbion-painel](https://github.com/GabrielPasini02/orbion-painel)** — CRM Kanban single-page. Pipeline arrastável, agenda, recorrência e MRR. Vanilla JS + `localStorage`, zero backend.
+
+**[web-automation-toolkit](https://github.com/GabrielPasini02/web-automation-toolkit)** — Node + Playwright: Markdown → PDF on-brand, HTML animado → vídeo MP4, captura de portfólio.
+
+## 💻 Stack
+
+`JavaScript` · `Node.js` · `HTML5` · `CSS3` · `Supabase / PostgreSQL` · `Playwright` · `Electron` · `Python` · `Git` · `Vercel`
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpasini02/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orbion.studio10@gmail.com)
+[![Orbion](https://img.shields.io/badge/Orbion-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://orbion-ia.vercel.app)
+
+---
+
+<sub>Aberto a oportunidades em desenvolvimento web, produção digital e agência.</sub>
